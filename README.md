@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi there, I'm Timofey! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Интересуюсь Python в частности Backend and Data Science (КТО ТЫ И ЗАЧЕМ ЗДЕСЬ)</h3>
+
 
 - 🌱 I’m finished learning **Python (Backend and Data Science)**
   <div><a href="https://ru.hexlet.io/u/volkov_tim">
@@ -26,16 +26,9 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Email-for_contact-green?style=style=flat-square">
   </a>
 
-- 🌍 I speak Russian (native), English (B2)?
+- 🌍 I speak Russian (native), English (Intermediate)
 
-
-
-
-
-
-
-
-<h2 align="center">GitHub Stats (Занимательная инфорграфика)</h2>
+<h2 align="center">GitHub Stats</h2>
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=volkov-timofey&theme=gruvbox&rank=B,C&column=5">
 </div>
@@ -47,12 +40,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=volkov-timofey&theme=solarized_dark">
 </div>
 
-
-
 <h2 align="left">Principle in work and projects:</h2>
 <p>My main goal is to improve the quality of human experience, reduce routine, and automate processes.
 To create an important and high-quality product that will be understandable and convenient on an intuitive level, which users will use every day.</p>
-
-
 
 <h3 align="left">I will be glad to receive new feedback and opportunities!</h3>
