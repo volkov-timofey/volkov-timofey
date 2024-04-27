@@ -6,7 +6,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-- 🌱 I’m finished learning **Python (Backend and Data Science)**
+- 🌱 I’m finished learning <a href="https://github.com/volkov-timofey/volkov-timofey/tree/main/Sertificates">**Python (Backend and Data Science)**</a>
   <div><a href="https://ru.hexlet.io/u/volkov_tim">
    <img src="https://img.shields.io/badge/Hexlet-grey?style=style=flat-square&logo=hexlet&logoColor=white">
   </a></div>
