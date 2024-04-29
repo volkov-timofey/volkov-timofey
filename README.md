@@ -19,7 +19,7 @@
   </div>
 - 🤝 Actively looking for a job
 - 📫 How to reach me
-  <a href="https://t.me/Volkov_Timofey">
+  <a href="https://t.me/Vol_Tim">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=style=flat-square&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:volkow.timofey@yandex.ru">
