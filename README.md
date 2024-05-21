@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkov-timofey&layout=compact&theme=dark"> 
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=volkov-timofey&theme=github">
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=volkov-timofey&theme=github"> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=volkov-timofey&theme=solarized_dark">
 </div>
 
