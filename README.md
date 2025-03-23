@@ -38,18 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="40" height="40"/>&nbsp;
 </div>
 
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=volkov-timofey&theme=gruvbox&rank=B,C&column=5">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkov-timofey&layout=compact&theme=dark"> 
-</div>
-<div align="center">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=volkov-timofey&theme=github"> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=volkov-timofey&theme=solarized_dark">
-</div>
-
 <h2 align="left">Principle in work and projects:</h2>
 <p>My main goal is to improve the quality of human experience, reduce routine, and automate processes.
 To create an important and high-quality product that will be understandable and convenient on an intuitive level, which users will use every day.</p>
