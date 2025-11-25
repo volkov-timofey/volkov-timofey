@@ -8,7 +8,7 @@
 
 - 🤝 I am considering job offers
 - 📫 How to reach me
-  <a href="https://t.me/Vol_Tim">
+  <a href="https://t.me/TSVolkov">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=style=flat-square&logo=telegram&logoColor=white" />
   </a>
 - 🌍 I speak Russian (native), English (Intermediate)
